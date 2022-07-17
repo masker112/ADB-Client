@@ -26,3 +26,7 @@ Input `help` for list of commands.
 Input `help <command>` for Description of given command.  
   
 If you have any issues, Please make sure to log them @ https://github.com/masker112/ADB-Client/issues  
+
+# Build Data
+Latest Version: 1
+By: Masker112
